@@ -2,10 +2,10 @@
 
 // 7 types : String, Number, Boolean, null, undefined, Symbol, BigInt
 
-const score = 100
-const scoreVaule = 100.23
+const score = 100 // int
+const scoreVaule = 100.23 // float
 
-const isLoggedIn = false
+const isLoggedIn = false // boolean
 const outsideTemp = null
 let userEmail;
 
